@@ -42,7 +42,7 @@ Get-ChildItem -Path $env:USERPROFILE -Recurse -Filter lean.exe -ErrorAction Sile
 Example output:
 
 ```
-C:\Users\Ben\AppData\Local\Programs\Python\Python313\Scripts\lean.exe
+C:\Users\your_user_name\AppData\Local\Programs\Python\Python313\Scripts\lean.exe
 ```
 
 ---
@@ -56,7 +56,7 @@ C:\Users\Ben\AppData\Local\Programs\Python\Python313\Scripts\lean.exe
 5. Click **New**, then paste your Scripts path, e.g.:
 
 ```
-C:\Users\Ben\AppData\Local\Programs\Python\Python313\Scripts
+C:\Users\your_user_name\AppData\Local\Programs\Python\Python313\Scripts
 ```
 
 6. Click **OK** and restart your terminal
